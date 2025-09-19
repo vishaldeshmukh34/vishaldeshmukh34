@@ -92,3 +92,9 @@
 ---
 
 ⭐️ From [Vishal Deshmukh](https://github.com/vishaldeshmukh34)
+
+## 📊 Daily GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldeshmukh34&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
