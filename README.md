@@ -173,28 +173,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  🚀 My GitHub Journey 🚀
-</p>
-
-<p align="center">
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaldeshmukh34&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="170px"/>
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldeshmukh34&theme=dark&hide_border=true" height="170px"/>
-</p>
-
-<p align="center">
-  🌟 Top Languages 🌟 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldeshmukh34&layout=compact&theme=dark&hide_border=true" height="150px"/>
-</p>
-
-<p align="center">
-  ✨ Keep coding, keep shining! 💻🔥
-</p>
+## 📊 GitHub Stats & Activity <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishaldeshmukh34&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="170px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldeshmukh34&theme=merko&hide_border=false" height="170px"/> </p> <p align="center"> added stylish and very atritiveness and more like emoji <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldeshmukh34&theme=merko&hide_border=false&layout=compact" height="150px"/> </p>
 
 ---
 
