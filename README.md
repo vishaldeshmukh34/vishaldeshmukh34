@@ -17,14 +17,19 @@
 ## 👨‍💻 About Me  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFB3&center=true&vCenter=true&width=650&lines=💫+Hey+there!+I'm+Vishal+Deshmukh;🎯+Blending+logic+and+design;🌱+Exploring+React,+Java+and+Cloud;💬+Love+collaboration;⚡+Code+it+clean,+design+it+bold" alt="About Me Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFB3&center=true&vCenter=true&width=650&lines=Hey%20there!%20I'm%20Vishal%20Deshmukh;Blending%20logic%20and%20design;Exploring%20React,%20Java%20and%20Cloud;Love%20collaboration;Code%20it%20clean,%20design%20it%20bold" alt="About Me Typing Animation"/>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Creative-💡-gradient?style=for-the-badge&logo=appveyor&logoColor=white&color=7B2FF7" />
-  <img src="https://img.shields.io/badge/Passionate-🔥-gradient?style=for-the-badge&logo=appveyor&logoColor=white&color=00FFB3" />
-  <img src="https://img.shields.io/badge/Explorer-🌱-gradient?style=for-the-badge&logo=appveyor&logoColor=white&color=FF6EC7" />
+  💫 🎯 🌱 💬 ⚡
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Creative-💡-7B2FF7?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passionate-🔥-00FFB3?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explorer-🌱-FF6EC7?style=for-the-badge&logo=appveyor&logoColor=white" />
+</p>
+
 ---
 
 ## 💼 What I Do  
