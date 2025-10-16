@@ -41,15 +41,30 @@
 ## 💼 What I Do  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7B2FF7&center=true&vCenter=true&width=700&lines=💻+Frontend+Development:+React,+HTML,+CSS,+JavaScript,+Bootstrap;⚙️+Backend+%26+Database:+Java,+MySQL,+SQLite;🎨+Design+Tools:+Canva,+Proto.io,+Adobe+After+Effects;☁️+Deployment+%26+Version+Control:+Git,+GitHub,+Netlify,+Postman" alt="What I Do Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFB3&center=true&vCenter=true&width=700&lines=Frontend%20Development:%20React,%20HTML,%20CSS,%20JavaScript,%20Bootstrap;Backend%20%26%20Database:%20Java,%20MySQL,%20SQLite;Design%20Tools:%20Canva,%20Proto.io,%20Adobe%20After%20Effects;Deployment%20%26%20Version%20Control:%20Git,%20GitHub,%20Netlify,%20Postman" alt="What I Do Typing Animation"/>
 </div>
 
 <p align="center">
-  💻 <b>Frontend Development:</b> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><br>
-  ⚙️ <b>Backend & Database:</b> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /><br>
-  🎨 <b>Design Tools:</b> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00E5FF" /> <img src="https://img.shields.io/badge/Adobe_AE-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" /><br>
-  ☁️ <b>Deployment & Version Control:</b> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  💻 Frontend Development: React, HTML, CSS, JavaScript, Bootstrap <br>
+  ⚙️ Backend & Database: Java, MySQL, SQLite <br>
+  🎨 Design Tools: Canva, Proto.io, Adobe After Effects <br>
+  ☁️ Deployment & Version Control: Git, GitHub, Netlify, Postman
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
 
 
 
