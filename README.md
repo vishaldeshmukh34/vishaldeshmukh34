@@ -42,12 +42,16 @@
 
 ---
 
-### ⚙️ Tools & Platforms  
-<a href="#"><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-2B3137?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Postman-F87037?style=for-the-badge&logo=postman&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Netlify-00AD9F?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+### ⚙️ Tools & Platforms
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
+[![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Gunicorn](https://img.shields.io/badge/Gunicorn-298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)](https://gunicorn.org/)
+[![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/)
+
 
 ---
 
@@ -73,10 +77,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaldeshmukh34&show_icons=true&theme=tokyonight&title_color=66A6FF&icon_color=00C9FF&bg_color=00000000&text_color=333333" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldeshmukh34&theme=tokyonight&ring=66A6FF&fire=00C9FF&background=00000000" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaldeshmukh34&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldeshmukh34&theme=merko&hide_border=false" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldeshmukh34&theme=merko&hide_border=false&layout=compact" height="150px"/>
 </p>
 
 ---
