@@ -173,15 +173,28 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaldeshmukh34&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldeshmukh34&theme=merko&hide_border=false" height="170px"/>
+  🚀 My GitHub Journey 🚀
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldeshmukh34&theme=merko&hide_border=false&layout=compact" height="150px"/>
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaldeshmukh34&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&title_color=7B2FF7&text_color=FFFFFF&bg_color=00000000" height="170px"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldeshmukh34&theme=tokyonight&hide_border=false&stroke=7B2FF7&background=00000000&ring=00FFB3&fire=FF00FF&currStreakNum=00FFB3" height="170px"/>
 </p>
+
+<p align="center">
+  🌟 Top Languages 🌟 <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldeshmukh34&theme=tokyonight&hide_border=false&layout=compact&title_color=66A6FF&text_color=FFFFFF&bg_color=00000000" height="150px"/>
+</p>
+
+<p align="center">
+  ✨ Keep coding, keep shining! 💻🔥
+</p>
+
 
 ---
 
