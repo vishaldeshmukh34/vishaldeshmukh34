@@ -17,17 +17,23 @@
 ## 👨‍💻 About Me  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFB3&center=true&vCenter=true&width=650&lines=Hey%20there!%20I'm%20Vishal%20Deshmukh;Blending%20logic%20and%20design;Exploring%20React,%20Java%20and%20Cloud;Love%20collaboration;Code%20it%20clean,%20design%20it%20bold" alt="About Me Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=500&color=00FFB3&center=true&vCenter=true&width=700&lines=Hey%20there!%20I'm%20Vishal%20Deshmukh;Creative%20Full%20Stack%20Developer;Blending%20logic%20and%20design;Exploring%20React,%20Java%20and%20Cloud;Love%20collaboration%20and%20learning;Code%20it%20clean,%20design%20it%20bold" alt="Typing Animation About Me"/>
 </div>
 
 <p align="center">
-  💫 🎯 🌱 💬 ⚡
+  💫 Passionate about building interactive UI & smooth UX <br>
+  🎯 Problem solver with a focus on clean, efficient code <br>
+  🌱 Always learning new tech and exploring cloud computing <br>
+  💬 Enjoy teamwork, mentoring, and sharing knowledge <br>
+  ⚡ Motto: "Code clean, design bold, keep improving"
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Creative-💡-7B2FF7?style=for-the-badge&logo=appveyor&logoColor=white" />
   <img src="https://img.shields.io/badge/Passionate-🔥-00FFB3?style=for-the-badge&logo=appveyor&logoColor=white" />
   <img src="https://img.shields.io/badge/Explorer-🌱-FF6EC7?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teamplayer-🤝-FFA500?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learner-📚-1E90FF?style=for-the-badge&logo=appveyor&logoColor=white" />
 </p>
 
 ---
