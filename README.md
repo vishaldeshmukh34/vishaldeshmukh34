@@ -73,16 +73,28 @@
 
 ---
 
+---
+
 ## 🌈 Top Languages  
+
+<div align="center">
+  <!-- Typing Animation Title -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=7B2FF7&center=true&vCenter=true&width=500&lines=🌐+My+Most+Used+Languages;💻+Exploring+New+Tech+Every+Day!" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldeshmukh34&layout=compact&theme=transparent&title_color=7B2FF7&text_color=1B1B1B"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%" height="4px"/>
+</p>
+
 
 ---
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaldeshmukh34&theme=minimal&bg_color=FFFFFF&color=7B2FF7&line=00FFB3&point=7B2FF7&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaldeshmukh34&theme=react-dark&bg_color=0D1117&color=00FFB3&line=8A2BE2&point=7B2FF7&area=true&hide_border=true"/>
 </p>
 
 ---
