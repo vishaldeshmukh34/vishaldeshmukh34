@@ -158,9 +158,18 @@
 ---
 
 ## 🏆 GitHub Trophies  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishaldeshmukh34&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+  ✨ My Achievements ✨<br><br>
+  <span style="display:inline-block; padding:8px; border-radius:15px; background:linear-gradient(135deg, #7B2FF7, #00FFB3);">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishaldeshmukh34&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </span>
 </p>
+
+<p align="center">
+  🏅 Keep coding, keep shining! ✨
+</p>
+
 
 ---
 
