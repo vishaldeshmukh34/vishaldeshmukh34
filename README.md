@@ -2,13 +2,16 @@
 
 <!-- 🌟 Stylish Dark-Mode Animated Header -->
 
+<!-- 🌟 Dark-Mode Stylish Header (GitHub-Safe) -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=V I S H A L ✨ D E S H M U K H&fontSize=50&fontColor=FFFFFF&animation=twinkling&color=0:7B2FF7,100:00FFB3&fontAlignY=40&desc=Full+Stack+Developer+%E2%9C%A8+Creative+Designer&descAlign=50" alt="Vishal Deshmukh Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=VISHAL_DESHMUKH&fontSize=50&fontColor=FFFFFF&animation=twinkling&color=0:7B2FF7,100:00FFB3&fontAlignY=40" alt="Vishal Deshmukh Header"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&color=00FFB3&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🌌+Tech+Explorer;🎨+Creative+Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Explorer;Creative+Designer" alt="Typing Animation" />
 </div>
+
 
 ---
 ## 👨‍💻 About Me  
