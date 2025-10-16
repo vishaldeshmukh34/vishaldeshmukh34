@@ -45,20 +45,34 @@
 </div>
 
 <p align="center">
-  💻 Frontend Development: React, HTML, CSS, JavaScript, Bootstrap <br>
-  ⚙️ Backend & Database: Java, MySQL, SQLite <br>
-  🎨 Design Tools: Canva, Proto.io, Adobe After Effects <br>
-  ☁️ Deployment & Version Control: Git, GitHub, Netlify, Postman
+  💻 Frontend | ⚙️ Backend | 🎨 Design | ☁️ Deployment
 </p>
 
 <p align="center">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Adobe_AE-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Deployment -->
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
