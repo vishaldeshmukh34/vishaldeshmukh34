@@ -1,9 +1,13 @@
 <!-- 🌟 VISHAL DESHMUKH - Auto-Theme Elegant GitHub Profile 🌟 --> 
 
-<!-- Header Animation -->
+<!-- 🌟 Stylish Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89F7FE,100:66A6FF&height=150&section=header&text=✨%20VISHAL%20DESHMUKH%20✨&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&section=header&text=💫%20V I S H A L ✨ D E S H M U K H💫&fontSize=50&fontColor=FFFFFF&animation=twinkling&color=0:89F7FE,100:E0C3FC&fontAlignY=40"/>
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&color=FFFFFF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🌱+Tech+Explorer;🎨+Creative+Designer" alt="Typing Animation" />
+</div>
 
 ---
 
