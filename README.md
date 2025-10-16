@@ -140,12 +140,20 @@
 
 ---
 
-### 🎨 Design & Creativity  
-<a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00E5FF"/></a>
+### 🎨 Design & Creativity
 
-</div>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&colorA=00FFFF&colorB=00CED1" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white&colorA=9370DB&colorB=8A2BE2" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00E5FF&colorA=4B0082&colorB=8A2BE2" />
+  </a>
+</p>
+
 
 ---
 
