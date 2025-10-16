@@ -173,7 +173,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishaldeshmukh34&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="170px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldeshmukh34&theme=merko&hide_border=false" height="170px"/> </p> <p align="center"> added stylish and very atritiveness and more like emoji <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldeshmukh34&theme=merko&hide_border=false&layout=compact" height="150px"/> </p>
+## 📊 GitHub Stats & Activity <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishaldeshmukh34&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="170px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldeshmukh34&theme=merko&hide_border=false" height="170px"/> </p> <p align="center">
 
 ---
 
