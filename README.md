@@ -15,12 +15,16 @@
 
 ---
 ## 👨‍💻 About Me  
-💫 Hey there! I'm **Vishal Deshmukh**, a creative **Full Stack Developer** passionate about crafting beautiful digital experiences.  
-🎯 My goal is to blend **logic and design** to build projects that not only work — but shine.  
-🌱 Currently exploring **React, Java, and Cloud Development**.  
-💬 I love sharing ideas and learning through collaboration.  
-⚡ *“Code it clean, design it bold.”*  
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFB3&center=true&vCenter=true&width=650&lines=💫+Hey+there!+I'm+Vishal+Deshmukh;🎯+Blending+logic+and+design;🌱+Exploring+React,+Java+and+Cloud;💬+Love+collaboration;⚡+Code+it+clean,+design+it+bold" alt="About Me Typing Animation"/>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Creative-💡-gradient?style=for-the-badge&logo=appveyor&logoColor=white&color=7B2FF7" />
+  <img src="https://img.shields.io/badge/Passionate-🔥-gradient?style=for-the-badge&logo=appveyor&logoColor=white&color=00FFB3" />
+  <img src="https://img.shields.io/badge/Explorer-🌱-gradient?style=for-the-badge&logo=appveyor&logoColor=white&color=FF6EC7" />
+</p>
 ---
 
 ## 💼 What I Do  
