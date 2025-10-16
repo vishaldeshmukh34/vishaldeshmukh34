@@ -186,9 +186,24 @@
 ---
 
 ## 🌈 Top Languages  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldeshmukh34&layout=compact&theme=tokyonight&title_color=66A6FF&text_color=333333&bg_color=00000000"/>
+  🔥 My Coding Arsenal 🔥
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldeshmukh34&layout=compact&theme=tokyonight&title_color=7B2FF7&text_color=FFFFFF&bg_color=00000000" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  💻 Languages I Code With:  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&colorA=FFA500&colorB=FF8C00" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&colorA=FFD700&colorB=FFEA00" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&colorA=FF7F50&colorB=FF4500" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&colorA=1E90FF&colorB=00BFFF" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&colorA=5F9EA0&colorB=00CED1" />
+</p>
+
 
 ---
 
