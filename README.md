@@ -1,17 +1,16 @@
 <!-- 🌟 VISHAL DESHMUKH - Auto-Theme Elegant GitHub Profile 🌟 --> 
 
-<!-- 🌟 Stylish Animated Header -->
+<!-- 🌟 Stylish Dark-Mode Animated Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=VISHAL%20DESHMUKH&fontSize=50&fontColor=FFFFFF&animation=twinkling&color=0:89F7FE,100:E0C3FC&fontAlignY=40" alt="Vishal Deshmukh Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=V I S H A L ✨ D E S H M U K H&fontSize=50&fontColor=FFFFFF&animation=twinkling&color=0:7B2FF7,100:00FFB3&fontAlignY=40&desc=Full+Stack+Developer+%E2%9C%A8+Creative+Designer&descAlign=50" alt="Vishal Deshmukh Header"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&color=7B2FF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Explorer;Creative+Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&color=00FFB3&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🌌+Tech+Explorer;🎨+Creative+Designer" alt="Typing Animation" />
 </div>
 
 ---
-
 ## 👨‍💻 About Me  
 💫 Hey there! I'm **Vishal Deshmukh**, a creative **Full Stack Developer** passionate about crafting beautiful digital experiences.  
 🎯 My goal is to blend **logic and design** to build projects that not only work — but shine.  
