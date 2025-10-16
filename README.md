@@ -66,10 +66,11 @@
 
 ---
 
-## 📈 Contribution Graph  
+## 🕹️ Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaldeshmukh34&theme=github-light&color=66A6FF&line=00C9FF&point=89F7FE&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaldeshmukh34&theme=react-dark&bg_color=0D1117&color=00FFB3&line=7B2FF7&point=00FFB3&area=true&hide_border=true"/>
 </p>
+
 
 ---
 
