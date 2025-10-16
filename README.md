@@ -82,24 +82,24 @@
 
 
 
----
 ## 🌐 Socials
 
 <p align="center">
   ✨ Connect with me ✨ <br><br>
   <a href="https://www.instagram.com/vishak_deshmukh_18/">
-    <img src="https://img.shields.io/badge/Instagram-💖%20Pink?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-💜%20Magenta?style=for-the-badge&logo=instagram&logoColor=white&colorA=6A0DAD&colorB=E4405F"/>
   </a>
   <a href="https://linkedin.com/in/vishal-deshmukh79">
-    <img src="https://img.shields.io/badge/LinkedIn-🔗%20Blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-🔵%20Blue?style=for-the-badge&logo=linkedin&logoColor=white&colorA=0A66C2&colorB=0077B5"/>
   </a>
   <a href="https://youtube.com/@englishbyvishal_1">
-    <img src="https://img.shields.io/badge/YouTube-📺%20Red?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-🔴%20Red?style=for-the-badge&logo=youtube&logoColor=white&colorA=FF0000&colorB=FF6347"/>
   </a>
   <a href="mailto:vishaldeshmukh7972@gmail.com">
-    <img src="https://img.shields.io/badge/Email-✉️%20Gmail?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-✉️%20Gmail?style=for-the-badge&logo=gmail&logoColor=white&colorA=D14836&colorB=FF7F50"/>
   </a>
 </p>
+
 
 
 # 💻 Tech Stack:
