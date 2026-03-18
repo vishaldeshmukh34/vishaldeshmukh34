@@ -9,7 +9,7 @@
 <!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=VISHAL%20%20DESHMUKH&fontSize=72&fontColor=ffffff&color=0:4c1d95,25:7c3aed,50:a855f7,75:06b6d4,100:0ea5e9&stroke=c084fc&strokeWidth=3&animation=twinkling&fontAlignY=42&desc=✦%20Full%20Stack%20Developer%20%20·%20%20UI%2FUX%20Designer%20%20·%20%20Open%20Source%20Builder%20✦&descSize=19&descAlignY=65&descColor=e0d7ff&descAlign=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=a855f7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Vishal+Deshmukh+%F0%9F%91%8B;Full+Stack+Developer+%E2%9C%A6+Designer;React+%2B+Spring+Boot+%2B+MySQL+%2B+JWT;Built+Vishaknotes+%E2%80%94+from+scratch+%F0%9F%9A%80;Code+clean.+Design+bold.+Ship+fast.+%F0%9F%94%A5;Always+learning.+Always+building.+%F0%9F%92%A1;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
 
 <br/>
