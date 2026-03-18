@@ -5,38 +5,45 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ══════════════════════════════════════════════════════ -->
-<!--                  ANIMATED HERO BANNER                  -->
+<!--              ✦ HERO BANNER — NEW STYLE ✦              -->
 <!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=a855f7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Vishal+Deshmukh+%F0%9F%91%8B;Full+Stack+Developer+%E2%9C%A6+Designer;React+%2B+Spring+Boot+%2B+MySQL+%2B+JWT;Built+Vishaknotes+%E2%80%94+from+scratch+%F0%9F%9A%80;Code+clean.+Design+bold.+Ship+fast.+%F0%9F%94%A5;Always+learning.+Always+building.+%F0%9F%92%A1;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&text=VISHAL%20DESHMUKH&fontSize=52&fontColor=ffffff&color=0:0f0c29,40:302b63,100:24243e&stroke=a855f7&strokeWidth=1.5&animation=blinking&fontAlignY=50&desc=Full%20Stack%20Developer%20%E2%9C%A6%20UI%20Designer%20%E2%9C%A6%20Builder&descSize=16&descAlignY=70&descColor=c084fc" width="100%"/>
 </div>
 
 <br/>
 
-<!-- Typing Animation -->
+<!-- ── GLOWING DIVIDER ── -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&duration=2500&pause=600&color=a855f7&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there!+I'm+Vishal+Deshmukh+👋;Full+Stack+Developer+✦+Designer;React+%2B+Spring+Boot+%2B+MySQL+%2B+JWT;Built+Vishaknotes+—+from+scratch+🚀;Code+clean.+Design+bold.+Ship+fast.+🔥;Always+learning.+Always+building.+💡;Open+to+Internships+%26+Collaborations+🤝" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </div>
 
 <br/>
 
-<!-- Profile Badges Row -->
+<!-- ── TYPING ANIMATION ── -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=a855f7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Vishal+Deshmukh+%F0%9F%91%8B;Full+Stack+Developer+%E2%9C%A6+UI+Designer;React+%2B+Spring+Boot+%2B+MySQL+%2B+JWT;Built+Vishaknotes+from+scratch+%F0%9F%9A%80;Code+clean.+Design+bold.+Ship+fast.+%F0%9F%94%A5;Always+learning.+Always+building.+%F0%9F%92%A1;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- ── PROFILE STATS BADGES ── -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vishaldeshmukh34&style=for-the-badge&color=7c3aed&label=👁️+PROFILE+VIEWS&labelColor=0d0d1a)](https://github.com/vishaldeshmukh34)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishaldeshmukh34&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=0d0d1a)](https://github.com/vishaldeshmukh34)
 &nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/vishaldeshmukh34?style=for-the-badge&logo=github&logoColor=white&label=👥+FOLLOWERS&color=06b6d4&labelColor=0d0d1a)](https://github.com/vishaldeshmukh34?tab=followers)
+[![GitHub Followers](https://img.shields.io/github/followers/vishaldeshmukh34?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=06b6d4&labelColor=0d0d1a)](https://github.com/vishaldeshmukh34?tab=followers)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/vishaldeshmukh34?style=for-the-badge&logo=github&logoColor=white&label=⭐+TOTAL+STARS&color=fbbf24&labelColor=0d0d1a)](https://github.com/vishaldeshmukh34)
+[![GitHub Stars](https://img.shields.io/github/stars/vishaldeshmukh34?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=fbbf24&labelColor=0d0d1a)](https://github.com/vishaldeshmukh34)
 &nbsp;
-[![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Available-34d399?style=for-the-badge&labelColor=0d0d1a)](https://linkedin.com/in/vishal-deshmukh79)
+[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Available-34d399?style=for-the-badge&labelColor=0d0d1a)](https://linkedin.com/in/vishal-deshmukh79)
 
 </div>
 
 <br/>
 
-<!-- Social Quick Links -->
+<!-- ── SOCIAL LINKS ── -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-deshmukh79)
@@ -45,6 +52,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vishak_deshmukh_18/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@englishbyvishal_1)
 
+</div>
+
+<br/>
+
+<!-- ── GLOWING DIVIDER ── -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </div>
 
 ---
@@ -310,7 +324,7 @@ Mobile Responsive   ████████████████████
 ## 🕹️ Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaldeshmukh34&theme=react-dark&bg_color=0d0d1a&color=a855f7&line=06b6d4&point=f472b6&area=true&area_color=a855f720&hide_border=true&custom_title=Vishal%27s%20Contribution%20Graph%20✦&radius=6" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaldeshmukh34&theme=react-dark&bg_color=0d0d1a&color=a855f7&line=06b6d4&point=f472b6&area=true&area_color=a855f720&hide_border=true&custom_title=Vishal%27s%20Contribution%20Graph%20%E2%9C%A6&radius=6" width="100%"/>
 </div>
 
 ---
@@ -490,8 +504,7 @@ Mobile Responsive   ████████████████████
 ║                                                                ║
 ║   " Theory only gets you so far.                              ║
 ║     Projects teach you EVERYTHING. "                          ║
-║                                                                ║
-║                              — Vishal Deshmukh               ║
+║                                          — Vishal Deshmukh    ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 
@@ -500,8 +513,7 @@ Mobile Responsive   ████████████████████
 ║   " This project broke me 10 times.                           ║
 ║     I fixed it 10 times.                                      ║
 ║     That's how you actually learn. "                          ║
-║                                                                ║
-║                              — Vishal Deshmukh               ║
+║                                          — Vishal Deshmukh    ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -536,10 +548,9 @@ personal:
 developer_life:
   first_project:     "Vishaknotes (React + Spring Boot + MySQL)"
   favorite_feature:  "Dark mode with animated toggle switch 🌙"
-  proudest_moment:   "JWT auth working at 2am after 5hrs of debugging"
+  proudest_moment:   "JWT auth working at 2am after 5hrs debugging"
   bugs_fixed_at_2am: "Too many to count 😅"
   coffee_consumed:   "Infinite ☕"
-  lines_of_code:     "Counting... still counting..."
   favorite_error:    "NullPointerException (teaches humility)"
 
 design_philosophy:
@@ -549,16 +560,16 @@ design_philosophy:
   zero_use_of: "CSS frameworks (pure CSS only!)"
 
 hobbies:
-  sport:         "Cricket 🏏"
-  music:         "Lo-fi + House while coding 🎵"
-  reading:       "Clean Code — Robert C. Martin 📖"
-  side_project:  "YouTube channel for English learning"
+  sport:        "Cricket 🏏"
+  music:        "Lo-fi + House while coding 🎵"
+  reading:      "Clean Code — Robert C. Martin 📖"
+  side_project: "YouTube channel for English learning"
 
 dreams:
   short_term: "Land first developer internship 💼"
   mid_term:   "Deploy Vishaknotes to production 🚀"
   long_term:  "Build a product used by millions 🌍"
-  ultimate:   "Be known for clean code + beautiful UI"
+  ultimate:   "Known for clean code + beautiful UI"
 ```
 
 </div>
@@ -637,7 +648,7 @@ dreams:
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,25:7c3aed,50:a855f7,75:06b6d4,100:0ea5e9&height=160&section=footer&text=Thanks%20for%20visiting!%20✦&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Built%20with%20💜%20by%20Vishal%20Deshmukh%20·%20India%20🇮🇳&descSize=14&descColor=c084fc&descAlignY=85" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,25:7c3aed,50:a855f7,75:06b6d4,100:0ea5e9&height=160&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A6&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Built%20with%20%F0%9F%92%9C%20by%20Vishal%20Deshmukh%20%C2%B7%20India&descSize=14&descColor=c084fc&descAlignY=85" />
 </div>
 
 <div align="center">
